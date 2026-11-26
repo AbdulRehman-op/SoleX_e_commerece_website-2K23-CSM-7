@@ -1,3 +1,5 @@
+# Name: Abdul Rehman 
+# Roll Number: 2K23/CSM/7 
 # SoleX Sprint 2
 
 This repository contains the Sprint 2 catalog foundation for the SoleX e-commerce platform.
